@@ -1,0 +1,11 @@
+SAS Enterprise Guide If you have SAS Enterprise Guide software, which runs only under
+Windows, you may choose to submit your programs from within SAS Enterprise Guide. To do this,
+open a Program window where you can type in your SAS program or open an existing SAS
+program. The progam editor in SAS Enterprise Guide (starting with version 4.3) displays automatic
+syntax help as you type your program, and there is a program analyzer that will generate a
+diagram of your program to help you visualize the parts and how they fit together. You can choose
+to run your code on the local machine, or on a remote server where SAS is installed. To run your
+SAS program on a remote server, you may need to have additional SAS software installed. Also,
+SAS Enterprise Guide can write SAS code for you through its extensive menu system. SAS
+Enterprise Guide is project based, so all your programs, results, and references to data are stored in
+one project file. The following figure shows a project in SAS Enterprise Guide 4.3.
