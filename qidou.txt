@@ -21,3 +21,10 @@ Documentation for your operating environment, or check with other SAS users at y
 sites with the same operating environment may have different ways of submitting jobs in batch
 mode.
 Delwiche,The following figure shows a project in SAS Enterprise Guide 4.3.
+The SAS windowing environment (also known as Display Manager) adopts the look and feel of
+your operating environment. This is good for you because many aspects of the SAS windowing
+environment will be familiar. But there are many ways in which you can customize your SAS
+environment if you want. This makes writing about it challenging, because we can’t tell you exactly
+what your SAS session will look like and how it will behave. However, there are common elements
+between the various operating environments, and you will probably already be familiar with those
+elements which are different.
