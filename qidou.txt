@@ -1,4 +1,4 @@
-SAS Enterprise Guide If you have SAS Enterprise Guide software, which runs only under
+To set up a Project Pages site, you need to create a new "orphan" branch (a branch that has no common history with an existing branch) in your repository. The safest way to do this is to start with a fresh clone:SAS Enterprise Guide If you have SAS Enterprise Guide software, which runs only under
 Windows, you may choose to submit your programs from within SAS Enterprise Guide. To do this,
 open a Program window where you can type in your SAS program or open an existing SAS
 program. The progam editor in SAS Enterprise Guide (starting with version 4.3) displays automatic
